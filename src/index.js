@@ -10,7 +10,7 @@ const input = [
   { text: "II", indent: 2, type: "ordered" },
   { text: "Gamma", indent: 1, type: "bullet" },
   { text: "Three", indent: 0, type: "ordered" },
-  { text: "bomb", indent: 1, type: "ordered" }
+  { text: "bomb", indent: 1, type: "ordered" },
 ];
 
 let r = "";
